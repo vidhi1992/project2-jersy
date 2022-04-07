@@ -1,2 +1,1 @@
-# project2-jersy
-project2
+# jersey_rest
